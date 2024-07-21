@@ -4,7 +4,7 @@ Challenge/Task:
 Define a class MathUtils with a static method add_numbers that takes two numbers and returns their sum.
 Call the static method without creating an instance of the class.
 '''
-
+# defined the MathUtils class
 class MathUtils:
     @staticmethod
     def add_numbers(a, b):
