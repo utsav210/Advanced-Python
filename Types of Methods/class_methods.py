@@ -1,5 +1,5 @@
 '''
-Challenge:
+Challenge/Task:
 
 1. Define a class Library with a class attribute total_books.
 2. Create a class method update_total_books that updates the total_books attribute.
