@@ -16,8 +16,8 @@ class Library:
 
 lib = Library()
 
-def main():
-    # display the initial total books:
+def main(): 
+    # display the initial total books
     print(f"Initial total books are: {lib.total_books}")
 
     # call the class method to update the total_books
