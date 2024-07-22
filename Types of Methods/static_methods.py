@@ -14,6 +14,7 @@ class MathUtils:
 def main():
     a = int(input("Enter the input number A: "))
     b = int(input("Enter the input number B: "))
+    
     """without creating instance of the class"""
     result = MathUtils.add_numbers(a,b)
     print(f"Sum of two numbers: {result}")
