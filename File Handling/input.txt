@@ -1,1 +1,1 @@
-"this content is written in input.txt and it is in small case every word. output file will modified text in each word capitalize in the file of input.txt" 
+"Welcome to input.txt!!!this content is written in input.txt and it is in small case every word. output file will modified text in each word capitalize in the file of input.txt" 
