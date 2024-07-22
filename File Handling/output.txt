@@ -1,0 +1,1 @@
+"This Content Is Written In Input.Txt And It Is In Small Case Every Word. Output File Will Modified Text In Each Word Capitalize In The File Of Input.Txt" 
